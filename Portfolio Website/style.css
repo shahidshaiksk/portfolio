@@ -1,0 +1,94 @@
+body
+{
+	font-family:Centaur;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color:white;
+	color:black;
+}
+div
+{
+	font-family:Centaur;
+	font-size:25px;
+}
+div:hover
+{
+	color:powderblue;
+}
+p
+{
+	font-family:Centaur;
+	font-size:25px;
+}
+pre
+{
+	font-size:25px;
+	font-family:Centaur;
+	color:black;
+}
+h1,h2,h3,h4,h5,h6
+{
+	font-family:Centaur;
+	color:#7510F7;
+	text-align:center;
+	text-decoration:no underline;
+}
+h1:hover,h2:hover,h3:hover,h4:hover,h5:hover,h6:hover
+{
+	color:black;
+}
+a:link
+{
+	font-size:25px;
+	text-decoration:none;
+	color:black;
+}
+a:visited
+{
+	text-decoration:none;
+	color:black;
+}
+a:hover
+{
+	text-decoration: none;
+	color:#7510F7;
+}
+a:active
+{
+	text-decoration: none;
+	color:violet;
+}
+.rr:hover
+{
+	color:yellow;
+}
+.hh:hover
+{
+	color:powderblue;
+}
+button
+{
+	border-radius:25px;
+	background-color:#7510F7;
+	font-size:25px;
+	font-family:Centaur;
+	border:3px solid #ffffff;
+	padding:6px 6px;
+	color:white;
+}
+button:hover
+{
+	font-size:25px;
+	font-family:Centaur;
+	border:3px solid white;
+	padding:6px 6px;
+	color:#7510F7;
+	background-color:white;
+}
+img.cs
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
